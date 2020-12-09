@@ -13,7 +13,7 @@
 > buka
 > pkg install git
 > git clone https://github.com/rvlbot/Zxyz
-> cd alfbot
+> cd Zxyz
 > bash install.sh
 > node index.js
 ```
